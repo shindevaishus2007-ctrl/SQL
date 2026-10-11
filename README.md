@@ -145,13 +145,29 @@ The system maintains salary information for students who receive job offers from
 
 ● Offer Year
 
-●
+## 🎯 Project Objectives
 
-●
+ ## 🎓The main objectives of the CampusConnect Student Placement and Salary Management System are:
 
-●
+## 🏢To maintain students' personal and academic information.
 
-●
+## 📋To store company details and job opportunities.
+
+## 🤝To identify students eligible for different job openings based on CGPA.
+
+## ✅To manage placement drives and recruitment activities.
+
+## 💰To track student selection and offer acceptance status.
+
+## 📊To maintain and compare salary packages.
+
+## 📈To identify the highest and average salary packages.
+
+## 🏆To analyze department-wise placement performance.
+
+## 🏆To identify companies offering the highest salaries.
+
+## 📊To generate useful placement reports using SQL queries.
 
 
 
