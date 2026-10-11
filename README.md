@@ -170,7 +170,9 @@ The system maintains salary information for students who receive job offers from
 ## 📊To generate useful placement reports using SQL queries.
 
 
+
 ## 🎓 CampusConnect Student Placement & Salary Analytics – SQL Business Analysis Question Bank.
+
 
 
 ## 👨‍🎓 Student Profile & Academic Performance.
@@ -245,7 +247,57 @@ The system maintains salary information for students who receive job offers from
   
 ## 💰Salary Package & Compensation Analytics.
 
-1.
+1. What is the highest, lowest, and average annual salary package (Annual CTC) offered to students?
+
+2. Which specific companies offer the highest overall salary packages?
+
+3. Which job roles offer the highest average annual salary across the campus?
+
+4. Which students have received salary packages strictly above the premium threshold of ₹6 LPA?
+
+5. What is the total breakdown of extra compensation (Basic Salary vs. Bonus vs. Joining Bonus) given to placed candidates?
+
+6. Which graduation offer year had the highest average salary package payouts?
+
+7. Which graduation offer year had the highest average salary package payouts?
+
+
+## 🚀Advanced Placement SQL Operations (Complex Joins & Subqueries)
+
+1. Create a consolidated database view showing complete student profiles, their hired company name, job role, and final annual CTC.
+
+2. Write a subquery placed inside a FROM clause to find the average salary of departments with high placement counts.
+
+3. Demonstrate a CROSS JOIN operation between the Students table and the Companies table to generate a master eligibility matrix.
+
+4. Find the top 3 highest-paid students in each department using ranking window functions (DENSE_RANK).
+
+5. List all jobs where the maximum salary is higher than the average maximum salary across all available campus job postings using a subquery.
+
+6. Identify the "Star Recruiter" company that has selected the highest total number of students across all departments combined.
+
+7. * Find the percentage of placed students out of total registered students grouped by gender to analyze placement distributions.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
