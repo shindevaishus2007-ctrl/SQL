@@ -189,7 +189,7 @@ The system maintains salary information for students who receive job offers from
 6. Categorize students into 'High' (CGPA \(\ge \) 8.5), 'Medium' (6.5 to 8.4), and 'Low' (Below 6.5) performance tiers using a CASE statement.
 
 7. Find the students who have not received any placement offers using a LEFT JOIN where the placement ID is NULL.
-8. 
+
 
 ## 🏢 Corporate Partnership & Job Market Insights.
 
@@ -207,7 +207,7 @@ The system maintains salary information for students who receive job offers from
 6. Rank the companies based on the total number of distinct job roles they are offering on campus.
 
 7. Identify the companies that have the highest number of vacancies listed for a single job role.
-8. 
+
   
 ## 📅  Recruitment Drive Efficiency.
 
