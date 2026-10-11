@@ -172,7 +172,9 @@ The system maintains salary information for students who receive job offers from
 
 ## 🎓 CampusConnect Student Placement & Salary Analytics – SQL Business Analysis Question Bank.
 
+
 ## 👨‍🎓 Student Profile & Academic Performance.
+
 
 1. Which students have the highest CGPA in each respective department?
 
@@ -187,8 +189,10 @@ The system maintains salary information for students who receive job offers from
 6. Categorize students into 'High' (CGPA \(\ge \) 8.5), 'Medium' (6.5 to 8.4), and 'Low' (Below 6.5) performance tiers using a CASE statement.
 
 7. Find the students who have not received any placement offers using a LEFT JOIN where the placement ID is NULL.
+8. 
 
 ## 🏢 Corporate Partnership & Job Market Insights.
+
 
 1. Which companies offer the highest total number of vacancies?
 
@@ -203,8 +207,10 @@ The system maintains salary information for students who receive job offers from
 6. Rank the companies based on the total number of distinct job roles they are offering on campus.
 
 7. Identify the companies that have the highest number of vacancies listed for a single job role.
+8. 
   
 ## 📅  Recruitment Drive Efficiency.
+
 
 1. How many placement drives were organized/performed each month?
 
@@ -218,7 +224,9 @@ The system maintains salary information for students who receive job offers from
 
 6. Find the companies that scheduled a drive but have zero total student vacancies listed under their jobs.
 
+
 ## 💼 Placement Success & Status Tracking.
+
 
 1. How many students were successfully selected by each participating company?
 
@@ -234,7 +242,10 @@ The system maintains salary information for students who receive job offers from
 
 7. * Find the company that hired the highest number of female students to analyze diversity hiring trends.
   
+  
 ## 💰Salary Package & Compensation Analytics.
+
+1.
 
 
 
