@@ -170,6 +170,129 @@ The system maintains salary information for students who receive job offers from
 ## 📊To generate useful placement reports using SQL queries.
 
 
+## 🎓 CampusConnect Student Placement & Salary Analytics – SQL Business Analysis Question Bank.
+
+## 👨‍🎓 Student Profile & Academic Performance.
+
+1. Which students have the highest CGPA in each respective department?
+
+2. How many students are registered in the placement portal in total?
+
+3. What is the total number of students belonging to each academic department?
+
+4. Find the total count of students grouped by their graduation year.
+
+5. List all details of students whose age is greater than the average age of all students.
+
+6. Categorize students into 'High' (CGPA \(\ge \) 8.5), 'Medium' (6.5 to 8.4), and 'Low' (Below 6.5) performance tiers using a CASE statement.
+
+7. Find the students who have not received any placement offers using a LEFT JOIN where the placement ID is NULL.
+
+## 🏢 Corporate Partnership & Job Market Insights.
+
+1. Which companies offer the highest total number of vacancies?
+
+2. What is the distribution of companies across different industry sectors?
+
+3. Which job locations (cities) have the highest number of available job roles?
+
+4. Find the specific job roles that offer the absolute highest maximum salary packages.
+
+5. Calculate the average minimum and maximum salary offered within each industry segment.
+
+6. Rank the companies based on the total number of distinct job roles they are offering on campus.
+
+7. Identify the companies that have the highest number of vacancies listed for a single job role.
+  
+## 📅  Recruitment Drive Efficiency.
+
+1. How many placement drives were organized/performed each month?
+
+2. What is the monthly timeline trend of scheduled recruitment drives?
+
+3. Which placement drives have a status marked as 'Completed' versus 'Pending'?
+
+4. Find the recruitment drives whose registration deadline has already passed based on the current date.
+
+5. Identify drives that select students based on a specific process structure (e.g., 'Aptitude Test + Technical Interview')
+
+6. Find the companies that scheduled a drive but have zero total student vacancies listed under their jobs.
+
+## 💼 Placement Success & Status Tracking.
+
+1. How many students were successfully selected by each participating company?
+
+2. Which students have received multiple distinct job placement offers?
+
+3. What percentage of students participating in placement drives were successfully placed?
+
+4. Which students have accepted their placement offers (where Offer Acceptance Status = 'Accepted')?
+
+5. Find the total number of students placed versus those whose final selection status is still pending.
+
+6. Calculate the average number of days taken between the Selection Date and the formal Joining Date.
+
+7. * Find the company that hired the highest number of female students to analyze diversity hiring trends.
+  
+## 💰Salary Package & Compensation Analytics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
 
 
 
