@@ -291,21 +291,26 @@ This analytics-driven approach helps the institution easily identify top-paying 
 
 ##  🎓 “CampusConnect – Student Placement and Salary Management System”
 
-
-    STUDENT PLACEMENT AND SALARY MANAGEMENT
+STUDENT PLACEMENT AND SALARY MANAGEMENT
 
                     │
                     ▼
                 SQL DATABAE
 │             
 ├── Students
+
 ├── Companies
+
 ├── Jobs
+
 ├── Placement Drives
+
 ├── Placements
+
 └── Salary Packages
         │
         ▼
+        
    DATA VALIDATION
         │
         ├── Duplicate Checks
@@ -379,7 +384,7 @@ This analytics-driven approach helps the institution easily identify top-paying 
         
         ├── Placement Success Rate
         
-        └── Highest-Paying Company Analysis**
+        └── Highest-Paying Company Analysis
 
 
 
@@ -396,6 +401,8 @@ This analytics-driven approach helps the institution easily identify top-paying 
 
 
 
+
+    
 
 
 
