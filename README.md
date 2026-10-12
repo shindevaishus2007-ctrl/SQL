@@ -308,6 +308,7 @@ STUDENT PLACEMENT AND SALARY MANAGEMENT
 ├── Placements
 
 └── Salary Packages
+
         │
         ▼
         
