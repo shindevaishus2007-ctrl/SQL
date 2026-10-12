@@ -289,8 +289,60 @@ Using SQL operations like JOINs, GROUP BY aggregations, and subqueries, the proj
 This analytics-driven approach helps the institution easily identify top-paying job roles, evaluate department-wise placement success rates, and discover key corporate trends to systematically improve future campus placement outcomes.
 
 
+##  🎓 “CampusConnect – Student Placement and Salary Management System”
 
 
+**STUDENT PLACEMENT AND SALARY MANAGEMENT
+│
+├── Students
+├── Companies
+├── Jobs
+├── Placement Drives
+├── Placements
+└── Salary Packages
+        │
+        ▼
+   DATA VALIDATION
+        │
+        ├── Duplicate Checks
+        ├── NULL Checks
+        ├── Primary Key Validation
+        ├── Foreign Key Validation
+        ├── CGPA Validation
+        ├── Salary Amount Validation
+        └── Date Validation
+        │
+        ▼
+     SQL ANALYSIS
+        │
+        ├── SELECT / WHERE
+        ├── DISTINCT / ORDER BY
+        ├── GROUP BY / HAVING
+        ├── Aggregate Functions
+        │   ├── COUNT()
+        │   ├── SUM()
+        │   ├── AVG()
+        │   ├── MAX()
+        │   └── MIN()
+        ├── JOINS
+        │   ├── INNER JOIN
+        │   └── LEFT JOIN
+        ├── CASE
+        ├── SUBQUERIES
+        ├── WINDOW FUNCTIONS
+        ├── SELF JOIN
+        └── VIEWS
+        │
+        ▼
+    BUSINESS INSIGHTS
+        │
+        ├── Student Academic Insights
+        ├── Company Recruitment Insights
+        ├── Job Vacancy Insights
+        ├── Department-wise Placement Insights
+        ├── Salary Package Insights
+        ├── Placement Success Rate
+        └── Highest-Paying Company Analysis**
 
 
 
