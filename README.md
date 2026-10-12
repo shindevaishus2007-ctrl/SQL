@@ -292,8 +292,11 @@ This analytics-driven approach helps the institution easily identify top-paying 
 ##  🎓 “CampusConnect – Student Placement and Salary Management System”
 
 
-**STUDENT PLACEMENT AND SALARY MANAGEMENT
+## STUDENT PLACEMENT AND SALARY MANAGEMENT
 
+                    │
+                    ▼
+                SQL DATABASE
 │
 ├── Students
 
@@ -309,45 +312,78 @@ This analytics-driven approach helps the institution easily identify top-paying 
         │
         ▼
    DATA VALIDATION
+   
         │
         ├── Duplicate Checks
+        
         ├── NULL Checks
+        
         ├── Primary Key Validation
+        
         ├── Foreign Key Validation
+        
         ├── CGPA Validation
+        
         ├── Salary Amount Validation
+        
         └── Date Validation
+        
         │
         ▼
      SQL ANALYSIS
+     
         │
         ├── SELECT / WHERE
+        
         ├── DISTINCT / ORDER BY
+        
         ├── GROUP BY / HAVING
+        
         ├── Aggregate Functions
+        
         │   ├── COUNT()
+        
         │   ├── SUM()
+        
         │   ├── AVG()
+        
         │   ├── MAX()
+        
         │   └── MIN()
+        
         ├── JOINS
+        
         │   ├── INNER JOIN
+        
         │   └── LEFT JOIN
+        
         ├── CASE
+        
         ├── SUBQUERIES
+        
         ├── WINDOW FUNCTIONS
+        
         ├── SELF JOIN
+        
         └── VIEWS
+        
         │
         ▼
     BUSINESS INSIGHTS
+    
         │
         ├── Student Academic Insights
+        
         ├── Company Recruitment Insights
+        
         ├── Job Vacancy Insights
+        
         ├── Department-wise Placement Insights
+        
         ├── Salary Package Insights
+        
         ├── Placement Success Rate
+        
         └── Highest-Paying Company Analysis**
 
 
