@@ -296,13 +296,14 @@ This analytics-driven approach helps the institution easily identify top-paying 
 
                     │
                     ▼
-                SQL DATABASE
-│
+                SQL DATABAS
+│             
 ├── Students
 
 ├── Companies
 
 ├── Jobs
+
 ├── Placement Drives
 
 ├── Placements
