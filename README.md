@@ -292,7 +292,7 @@ This analytics-driven approach helps the institution easily identify top-paying 
 ##  🎓 “CampusConnect – Student Placement and Salary Management System”
 
 
-## STUDENT PLACEMENT AND SALARY MANAGEMENT
+    STUDENT PLACEMENT AND SALARY MANAGEMENT
 
                     │
                     ▼
@@ -311,8 +311,10 @@ This analytics-driven approach helps the institution easily identify top-paying 
 
         │
         ▼
+        
    DATA VALIDATION
    
+  
         │
         ├── Duplicate Checks
         
@@ -330,6 +332,7 @@ This analytics-driven approach helps the institution easily identify top-paying 
         
         │
         ▼
+        
      SQL ANALYSIS
      
         │
