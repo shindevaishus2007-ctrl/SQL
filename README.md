@@ -296,26 +296,17 @@ This analytics-driven approach helps the institution easily identify top-paying 
 
                     │
                     ▼
-                SQL DATABAS
+                SQL DATABAE
 │             
 ├── Students
-
 ├── Companies
-
 ├── Jobs
-
 ├── Placement Drives
-
 ├── Placements
-
 └── Salary Packages
-
         │
         ▼
-        
    DATA VALIDATION
-   
-  
         │
         ├── Duplicate Checks
         
