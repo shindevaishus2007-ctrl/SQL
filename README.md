@@ -293,13 +293,19 @@ This analytics-driven approach helps the institution easily identify top-paying 
 
 
 **STUDENT PLACEMENT AND SALARY MANAGEMENT
+
 │
 ├── Students
+
 ├── Companies
+
 ├── Jobs
 ├── Placement Drives
+
 ├── Placements
+
 └── Salary Packages
+
         │
         ▼
    DATA VALIDATION
