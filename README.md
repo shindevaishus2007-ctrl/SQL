@@ -97,6 +97,10 @@ The system maintains customer ratings and feedback to analyze customer satisfact
 * Review Date
 * Review Text
 
+## 🌸 CHANEL Perfume Sales, Inventory and Customer Analysis System- SQL
+##     Business Analysis Question Bank .
+
+
 
 
 
