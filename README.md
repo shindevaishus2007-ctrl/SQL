@@ -198,92 +198,53 @@ Overall, this project demonstrates how SQL and Power BI can work together to tra
 ## PERFUME SALES AND INVENTORY ANALYSIS SYSTEM
 │
 ├── DATABASE DESIGN
-│   │
-│   ├── Stores Table
-│   ├── Perfume Table
-│   ├── Customers Table
-│   ├── Inventory Table
-│   ├── Sales Table
-│   └── Review Table
+│   ├── Stores
+│   ├── Perfumes
+│   ├── Customers
+│   ├── Inventory
+│   ├── Sales
+│   └── Reviews
 │
 ├── DATA INSERTION
-│   │
-│   ├── Store Records
-│   ├── Perfume Records
-│   ├── Customer Records
-│   ├── Inventory Records
-│   ├── Sales Records
-│   └── Review Records
+│   └── 100 Records in Each Table
 │
 ├── DATA VALIDATION
-│   │
-│   ├── Duplicate Checks
-│   ├── NULL Checks
-│   ├── Primary Key Validation
-│   ├── Foreign Key Validation
-│   ├── Price Validation
-│   ├── Stock Quantity Validation
-│   ├── Sales Amount Validation
-│   ├── Rating Validation (1–5)
-│   └── Date Validation
+│   ├── Duplicate & NULL Checks
+│   ├── Primary & Foreign Keys
+│   ├── Price & Stock Validation
+│   └── Sales & Rating Validation
 │
 ├── SQL ANALYSIS
-│   │
-│   ├── SELECT / WHERE
-│   ├── DISTINCT / ORDER BY
-│   ├── GROUP BY / HAVING
+│   ├── SELECT, WHERE, ORDER BY
+│   ├── GROUP BY & HAVING
 │   ├── Aggregate Functions
-│   │   ├── COUNT()
-│   │   ├── SUM()
-│   │   ├── AVG()
-│   │   ├── MIN()
-│   │   └── MAX()
-│   │
 │   ├── JOINS
-│   │   ├── INNER JOIN
-│   │   ├── LEFT JOIN
-│   │   └── Multiple Table JOIN
-│   │
-│   ├── Subqueries
-│   ├── CASE Statements
-│   ├── Date Functions
-│   └── String Functions
+│   ├── Subqueries & CASE
+│   └── Date & String Functions
 │
 ├── SALES ANALYSIS
-│   │
 │   ├── Total Sales Revenue
 │   ├── Best-Selling Perfumes
 │   ├── Monthly Sales Trends
-│   ├── Store-Wise Sales
-│   ├── Customer Purchase Analysis
-│   └── Average Order Value
+│   └── Store-Wise Sales
 │
 ├── INVENTORY ANALYSIS
-│   │
-│   ├── Current Stock Levels
+│   ├── Stock Levels
 │   ├── Low-Stock Perfumes
-│   ├── Out-of-Stock Perfumes
-│   ├── Store-Wise Inventory
-│   ├── Fast-Moving Perfumes
-│   └── Inventory Reorder Requirements
+│   ├── Fast-Moving Products
+│   └── Reorder Requirements
 │
-├── CUSTOMER AND REVIEW ANALYSIS
-│   │
+├── CUSTOMER & REVIEW ANALYSIS
 │   ├── Repeat Customers
-│   ├── Customer-Wise Spending
-│   ├── Average Perfume Ratings
-│   ├── Highest-Rated Perfumes
-│   ├── Lowest-Rated Perfumes
-│   └── Review Sentiment Categories
+│   ├── Customer Spending
+│   ├── Average Ratings
+│   └── Highest-Rated Perfumes
 │
 └── FINAL REPORT
-    │
-    ├── Key Business Findings
-    ├── Sales Performance Summary
-    ├── Inventory Performance Summary
-    ├── Customer Satisfaction Summary
-    └── Final Conclusion
-
+    ├── Key Performance Indicators
+    ├── Sales & Inventory Insights
+    ├── Customer Satisfaction
+    └── Project Conclusion
 
 
 
