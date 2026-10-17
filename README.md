@@ -97,12 +97,86 @@ The system maintains customer ratings and feedback to analyze customer satisfact
 * Review Date
 * Review Text
 
-## 🌸 CHANEL Perfume Sales, Inventory and Customer Analysis System- SQL Business Analysis Question Bank .
+100)`.
+40. Calculate monthly sales revenue.
 
+## Table 6: Reviews — 
+41. Display all records from the `Reviews` table.
+42. Display reviews with a rating of 4.5 or higher.
+43. Find reviews with a rating below 4.0.
+44. Count the total number of reviews.
+45. Calculate the average rating across all reviews.
+46. Find the highest rating.
+47. Count how many reviews each perfume has, grouped by `PerfumeID`.
+48. Find the average rating for each perfume, showing only perfumes with an average rating of at least 4.5.
 
+# 🌸 Chanel Perfume Sales and Inventory Analysis – SQL Business Analysis Question Bank
 
+## 🏬 Stores Analysis
 
+1. Display all records from the `Stores` table.
+2. Find all stores located in Mumbai.
+3. Display stores located in a particular city.
+4. Count the total number of stores.
+5. Find the number of stores in each city.
+6. Display stores grouped by their store type.
+7. Find the store with the highest sales, if sales information is available.
+8. Display stores opened after a specified date.
 
+## 🌺 Perfume Analysis
+
+1. Display all records from the `Perfume` table.
+2. Display all perfumes belonging to the Chanel brand.
+3. Find perfumes priced above ₹10,000.
+4. Find the most expensive perfume.
+5. Find the least expensive perfume.
+6. Count the total number of perfumes.
+7. Calculate the average price of perfumes.
+8. Display perfumes grouped by fragrance category.
+
+## 👥 Customer Analysis
+
+1. Display all records from the `Customers` table.
+2. Find customers from Mumbai.
+3. Count the total number of customers.
+4. Display customers registered in 2026.
+5. Find customers grouped by city.
+6. Count the number of customers in each city.
+7. Display customers whose names start with 'A'.
+8. Find customers who have not provided an email address.
+
+## 📦 Inventory Analysis
+
+1. Display all records from the `Inventory` table.
+2. Find perfumes with stock quantities below 10.
+3. Find perfumes that are out of stock.
+4. Calculate the total quantity of inventory available.
+5. Find the perfume with the highest stock quantity.
+6. Display inventory details for each store.
+7. Count the number of perfumes available at each store.
+8. Identify perfumes that need restocking.
+
+## 💰 Sales Analysis
+
+1. Display all records from the `Sales` table.
+2. Display sales made during September 2026.
+3. Find sales transactions where quantity is greater than 1.
+4. Display sales with a discount of 10%.
+5. Count the total number of sales transactions.
+6. Calculate total units sold.
+7. Calculate total sales revenue after discounts using `Quantity * UnitPriceINR * (1 - DiscountPercent / 100)`.
+8. Calculate monthly sales revenue.
+
+## ⭐ Reviews Analysis
+
+1. Display all records from the `Reviews` table.
+2. Display reviews with a rating of 4.5 or higher.
+3. Find reviews with a rating below 4.0.
+4. Count the total number of reviews.
+5. Calculate the average rating across all reviews.
+6. Find the highest rating.
+7. Count how many reviews each perfume has, grouped by `PerfumeID`.
+8. Find the average rating for each perfume, showing only perfumes with an average rating above 4.0.
 
 
 
