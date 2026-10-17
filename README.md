@@ -69,7 +69,33 @@ The system tracks the available stock of different perfumes at various stores. I
 * Reorder Level
 * Last Restock Date
 
+## 5. 💰 Sales
 
+The system records perfume sales transactions to calculate revenue, analyze product performance, and identify sales trends.
+
+*The system stores the following information:*
+
+* Sale ID
+* Sale Date
+* Store ID
+* Customer ID
+* Perfume ID
+* Quantity
+* Unit Price in INR
+* Discount Percentage
+
+## 6. ⭐ Reviews
+
+The system maintains customer ratings and feedback to analyze customer satisfaction with different perfumes.
+
+*The system stores the following information:*
+
+* Review ID
+* Customer ID
+* Perfume ID
+* Rating
+* Review Date
+* Review Text
 
 
 
