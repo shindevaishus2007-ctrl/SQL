@@ -185,15 +185,13 @@ The system maintains customer ratings and feedback to analyze customer satisfact
 
 
 
-## ✦Project Conclusion
+# ✦ PROJECT CONCLUSION ✦
 
-The CHANEL Perfume Sales, Inventory and Customer Analysis System demonstrates how SQL can be used to organize, manage, and analyze retail business data. The project helps identify best-selling perfumes, calculate revenue, monitor stock levels, compare store performance, and evaluate customer satisfaction.
+The **Chanel Perfume Management System** was developed using SQL to manage data related to stores, perfumes, customers, inventory, sales, and customer reviews. The project helps organize business information efficiently and analyze important KPIs, such as total customers, sales revenue, perfume records, and customer ratings.
 
-By using SQL queries, joins, and aggregate functions, meaningful insights can be extracted from the database. Connecting the database to Power BI further improves data presentation through interactive charts and dashboards.
+This project improved my practical knowledge of SQL concepts, including table creation, primary and foreign keys, data insertion, and aggregate functions. By connecting SQL with Power BI, the data can be presented through interactive dashboards for better visualization and analysis.
 
-
-
-
+Overall, this project demonstrates how SQL and Power BI can work together to transform raw data into meaningful insights and support better business decisions.
 
 
 
