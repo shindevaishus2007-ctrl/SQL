@@ -198,17 +198,27 @@ Overall, this project demonstrates how SQL and Power BI can work together to tra
 ## PERFUME SALES AND INVENTORY ANALYSIS SYSTEM
 │
 ├── DATABASE DESIGN
+
 │   ├── Stores
+
 │   ├── Perfumes
+
 │   ├── Customers
+
 │   ├── Inventory
+
 │   ├── Sales
+
 │   └── Reviews
 │
 ├── DATA INSERTION
+
 │   └── 100 Records in Each Table
+
 │
+
 ├── DATA VALIDATION
+
 │   ├── Duplicate & NULL Checks
 │   ├── Primary & Foreign Keys
 │   ├── Price & Stock Validation
