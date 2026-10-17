@@ -193,7 +193,7 @@ This project improved my practical knowledge of SQL concepts, including table cr
 
 Overall, this project demonstrates how SQL and Power BI can work together to transform raw data into meaningful insights and support better business decisions.
 
-# PERFUME SALES AND INVENTORY ANALYSIS SYSTEM
+# 🌺PERFUME SALES AND INVENTORY ANALYSIS SYSTEM
 
 ```text
 PERFUME SALES AND INVENTORY ANALYSIS SYSTEM
