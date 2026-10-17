@@ -193,75 +193,75 @@ This project improved my practical knowledge of SQL concepts, including table cr
 
 Overall, this project demonstrates how SQL and Power BI can work together to transform raw data into meaningful insights and support better business decisions.
 
+# PERFUME SALES AND INVENTORY ANALYSIS SYSTEM
 
-
-## PERFUME SALES AND INVENTORY ANALYSIS SYSTEM
+```text
+PERFUME SALES AND INVENTORY ANALYSIS SYSTEM
+│
 │
 ├── DATABASE DESIGN
-
+│   │
 │   ├── Stores
-
 │   ├── Perfumes
-
 │   ├── Customers
-
 │   ├── Inventory
-
 │   ├── Sales
-
 │   └── Reviews
 │
-├── DATA INSERTION
-
-│   └── 100 Records in Each Table
-
 │
-
+├── DATA INSERTION
+│   │
+│   └── 100 Records in Each Table
+│
+│
 ├── DATA VALIDATION
-
+│   │
 │   ├── Duplicate & NULL Checks
 │   ├── Primary & Foreign Keys
 │   ├── Price & Stock Validation
 │   └── Sales & Rating Validation
 │
+│
 ├── SQL ANALYSIS
+│   │
 │   ├── SELECT, WHERE, ORDER BY
 │   ├── GROUP BY & HAVING
 │   ├── Aggregate Functions
 │   ├── JOINS
-│   ├── Subqueries & CASE
-│   └── Date & String Functions
+│   └── Subqueries & CASE
+│
 │
 ├── SALES ANALYSIS
+│   │
 │   ├── Total Sales Revenue
 │   ├── Best-Selling Perfumes
 │   ├── Monthly Sales Trends
 │   └── Store-Wise Sales
 │
+│
 ├── INVENTORY ANALYSIS
+│   │
 │   ├── Stock Levels
 │   ├── Low-Stock Perfumes
 │   ├── Fast-Moving Products
 │   └── Reorder Requirements
 │
+│
 ├── CUSTOMER & REVIEW ANALYSIS
+│   │
 │   ├── Repeat Customers
 │   ├── Customer Spending
 │   ├── Average Ratings
 │   └── Highest-Rated Perfumes
 │
+│
 └── FINAL REPORT
+    │
     ├── Key Performance Indicators
     ├── Sales & Inventory Insights
     ├── Customer Satisfaction
     └── Project Conclusion
-
-
-
-
-
-
-
+```
 
 
 
